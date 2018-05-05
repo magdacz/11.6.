@@ -33,7 +33,10 @@ body {
   padding: 15px;
   background: #4d7701;
   border: none;
-  
+}
+
+.column-card-list {
+  min-height: 200px;
 }
 
 .board .column-container {
